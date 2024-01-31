@@ -1,0 +1,6 @@
+train: ../train_data/images/train/ # train images
+val: ../train_data/images/val/ # val images
+
+# Classes
+names:
+  0: ORANGE_BALL
